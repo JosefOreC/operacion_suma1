@@ -24,7 +24,6 @@ class TestSuma(unittest.TestCase):
         with self.assertRaises(TypeError):
             objSuma.calcularSuma()
 
-
     def test_division_dosNumeros_retornaDivision(self):
         # Arrange
 

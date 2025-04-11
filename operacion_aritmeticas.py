@@ -7,8 +7,6 @@ class OperacionesAritmeticas:
     def calcularSuma(self):
 
         return self.operando1 + self.operando2
-
-
     def calcularDivision(self):
 
         return self.operando1/self.operando2
